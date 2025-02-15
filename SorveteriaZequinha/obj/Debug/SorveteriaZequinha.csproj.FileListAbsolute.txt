@@ -8,3 +8,4 @@ C:\Users\Laboratorio-Info\Documents\Visual Studio 2022\empresaABC\SorveteriaZequ
 C:\Users\Laboratorio-Info\Documents\Visual Studio 2022\empresaABC\SorveteriaZequinha\obj\Debug\SorveteriaZequinha.csproj.CoreCompileInputs.cache
 C:\Users\Laboratorio-Info\Documents\Visual Studio 2022\empresaABC\SorveteriaZequinha\obj\Debug\SorveteriaZequinha.exe
 C:\Users\Laboratorio-Info\Documents\Visual Studio 2022\empresaABC\SorveteriaZequinha\obj\Debug\SorveteriaZequinha.pdb
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2022\empresaABC\SorveteriaZequinha\obj\Debug\SorveteriaZequinha.frmLogin.resources
