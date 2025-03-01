@@ -17,19 +17,11 @@ namespace SorveteriaZequinha
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void pcbSplash_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void frmSplash_Load(object sender, EventArgs e)
-        {
-
+            frmLogin abrir = new frmLogin();
+            abrir.Show();
+            this.Hide();
         }
     }
 }
