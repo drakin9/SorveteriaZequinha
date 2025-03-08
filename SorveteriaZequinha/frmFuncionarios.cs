@@ -89,10 +89,19 @@ namespace SorveteriaZequinha
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            frmPesquisarFuncionarios abrir = new frmPesquisarFuncionarios();
+            abrir.Show();
+            this.Hide();
         }
 
         private void button10_Click(object sender, EventArgs e)
+        {
+            frmLogin abrir = new frmLogin();
+            abrir.Show();
+            this.Hide();
+        }
+
+        private void label12_Click(object sender, EventArgs e)
         {
 
         }

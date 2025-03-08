@@ -10,25 +10,23 @@ using System.Windows.Forms;
 
 namespace SorveteriaZequinha
 {
-    public partial class frmMenuPrincipal : Form
+    public partial class frmPesquisarFuncionarios : Form
     {
-        public frmMenuPrincipal()
+        public frmPesquisarFuncionarios()
         {
             InitializeComponent();
         }
 
-        private void btnVoltar_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
-            frmLogin abrir = new frmLogin();
-            abrir.Show();
-            this.Hide();
+
         }
 
-        private void btnFuncionarios_Click(object sender, EventArgs e)
+        private void btnPesquisar_Click(object sender, EventArgs e)
         {
             frmFuncionarios abrir = new frmFuncionarios();
             abrir.Show();
-            this.Hide();
+            this.Hide()
         }
     }
 }
